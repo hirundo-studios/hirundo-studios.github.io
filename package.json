@@ -17,6 +17,7 @@
   },
   "homepage": "https://hirundo-studios.github.io",
   "dependencies": {
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^3.1.0",
+    "phaser": "^3.54.0"
   }
 }
